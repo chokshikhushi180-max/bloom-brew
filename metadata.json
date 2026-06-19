@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Bloom Café",
+  "description": "An immersive, visually stunning aesthetic café website designed for Gen Z, featuring an elegant editorial menu, responsive interactions, and gorgeous layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
